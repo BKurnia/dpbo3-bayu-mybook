@@ -1,0 +1,6 @@
+Saya Bayu Kurniawan mengerjakan tp3 atas keberkahan-Nya maka saya tidak melakukan kecurangan seperti
+yang di spesifikasikan
+
+====================================================================================================
+Masih banyak kekurangan pada program ini salah satunya belum adanya objek oriented pada program ini
+serta beberapa fungsi yang belum lengkap
